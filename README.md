@@ -1,4 +1,4 @@
-Hello, I am NkosiKhu, a Computer Science Student in Europe
+Hello, I am NkosiKhu
 
 <!---
 NkosiKhu/NkosiKhu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
